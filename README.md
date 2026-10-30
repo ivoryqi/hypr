@@ -1,1 +1,1 @@
-# hypr
+# my personal hypr-related configuration
